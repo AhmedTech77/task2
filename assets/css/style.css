@@ -40,3 +40,13 @@ li{
     display: flex;
     gap: 24px;
 }
+.collection_section{
+    display: flex;
+}
+.collection{
+width:25%;
+}
+.collection_section{
+    align-items: center;
+
+}
