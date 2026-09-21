@@ -29,6 +29,7 @@ a{
 }
 .icons{
     width:20%;
+
 }
 .list ul{
     display: flex;
@@ -153,6 +154,9 @@ width:25%;
 
 
 @media (max-width: 768px) {
+
+}
+
   .nav-links {
     display: none;
     flex-direction: column;
@@ -161,4 +165,3 @@ width:25%;
   .menu-icon {
     display: block;
   }
-}
